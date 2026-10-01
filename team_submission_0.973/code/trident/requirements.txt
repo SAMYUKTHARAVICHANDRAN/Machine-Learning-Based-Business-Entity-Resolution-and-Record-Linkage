@@ -1,0 +1,11 @@
+numpy==2.5.3
+pandas==3.0.6
+rapidfuzz==3.14.6
+catboost==1.2.10
+duckdb==1.5.5
+pyarrow==25.0.1
+psutil==7.2.2
+scikit-learn==1.9.1
+nbformat
+nbclient
+ipykernel
